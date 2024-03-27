@@ -1,0 +1,18 @@
+[
+  {
+    "destination_folder_id": "{{ Google Folder Id }}",
+    "mapped_drive_letter": "C:\\",
+    "mapped_drive_path": "docs\\camera",
+    "camera_name": "Surveillance001",
+    "delete_on_success": true,
+    "skip_upload": false
+  },
+  {
+    "destination_folder_id": "{{ Google Folder Id }}",
+    "mapped_drive_letter": "D:\\",
+    "mapped_drive_path": "home\\areas\\porch",
+    "camera_name": "porchdoor",
+    "delete_on_success": true,
+    "skip_upload": false
+  }
+]

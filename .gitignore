@@ -1,0 +1,7 @@
+config.json
+credentials.json
+token.json
+*.bat
+*.log
+*.ps1
+*.zip
