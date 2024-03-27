@@ -1,0 +1,4 @@
+google_api_python_client==2.118.0
+google_auth_oauthlib==1.2.0
+opencv_python==4.9.0.80
+protobuf==5.26.0
